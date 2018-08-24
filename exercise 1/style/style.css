@@ -1,0 +1,21 @@
+body{
+	background:#cecdcb;
+	font-family:sans-serif;
+
+}
+
+div{
+	margin:auto;
+	width:600px;
+	
+}
+
+
+
+blockquote{
+	 text-align:center; 
+	 border-style: solid;
+	 border-color:white;
+	 width:600px;
+	 margin-left:0px;
+}
